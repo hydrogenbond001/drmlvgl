@@ -1,8 +1,8 @@
-# Install script for directory: /home/nino/rv1106_lvglApp/mylvgl_app/lv_drm/lvgl
+# Install script for directory: /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lvgl
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/nino/rv1106_lvglApp/mylvgl_app/release")
+  set(CMAKE_INSTALL_PREFIX "/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/release")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -37,36 +37,31 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "TRUE")
 endif()
 
-# Set default install directory permissions.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/usr/bin/arm-linux-gnueabihf-objdump")
-endif()
-
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/nino/rv1106_lvglApp/mylvgl_app/release/include/lvgl//src")
+   "/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/release/include/lvgl//src")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/home/nino/rv1106_lvglApp/mylvgl_app/release/include/lvgl/" TYPE DIRECTORY FILES "/home/nino/rv1106_lvglApp/mylvgl_app/src" FILES_MATCHING REGEX "/[^/]*\\.h$")
+file(INSTALL DESTINATION "/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/release/include/lvgl/" TYPE DIRECTORY FILES "/home/ph/sololinker/project/app/rv1106_drm_lvgl/src" FILES_MATCHING REGEX "/[^/]*\\.h$")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/nino/rv1106_lvglApp/mylvgl_app/release/include/lvgl/../lv_conf.h")
+   "/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/release/include/lvgl/../lv_conf.h")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/home/nino/rv1106_lvglApp/mylvgl_app/release/include/lvgl/.." TYPE FILE OPTIONAL RENAME "lv_conf.h" FILES "/home/nino/rv1106_lvglApp/mylvgl_app/lv_drm/lvgl/OFF")
+file(INSTALL DESTINATION "/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/release/include/lvgl/.." TYPE FILE OPTIONAL RENAME "lv_conf.h" FILES "/home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lvgl/OFF")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/nino/rv1106_lvglApp/mylvgl_app/output/lib/liblvgl.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lib/liblvgl.a")
 endif()
 

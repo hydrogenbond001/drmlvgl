@@ -70,7 +70,7 @@ cd output
 # build cross
 if [ "$BUILD_ARCH" = "arm" ] ; then
     echo "start build cross paltform"
-    cmake -DCMAKE_TOOLCHAIN_FILE=/home/xianlee/workspace/projects/lv_port_linux_drm/cmake/toolchainfile-rv1106.cmake -DCMAKE_INSTALL_PREFIX=./release ../
+    cmake -DCMAKE_TOOLCHAIN_FILE=./cmake/toolchainfile-rv1106.cmake -DCMAKE_INSTALL_PREFIX=./release ../
 elif [ "$BUILD_ARCH" = "armglibc" ] ; then
     cmake -DCMAKE_TOOLCHAIN_FILE=../cmake/toolchainfile-rv1106-glibc.cmake -DCMAKE_INSTALL_PREFIX=./release ../
 else

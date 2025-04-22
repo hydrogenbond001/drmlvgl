@@ -86,7 +86,7 @@
     #ifdef CONFIG_LV_COLOR_SCREEN_TRANSP
         #define LV_COLOR_SCREEN_TRANSP CONFIG_LV_COLOR_SCREEN_TRANSP
     #else
-        #define LV_COLOR_SCREEN_TRANSP 0
+        #define LV_COLOR_SCREEN_TRANSP 1
     #endif
 #endif
 

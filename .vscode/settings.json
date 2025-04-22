@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.txt": "pip-requirements",
+        "ostream": "c"
+    }
+}

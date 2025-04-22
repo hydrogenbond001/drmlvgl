@@ -8,9 +8,9 @@
 
 #include "generated/gui_guider.h"
 #include "generated/events_init.h"
-
-#define DISP_BUF_SIZE (1920 * 1080)
-
+#include "lv_demos.h"
+#define DISP_BUF_SIZE (1920* 1080 * 80) // 10 is the number of buffers
+// #define DISP_BUF_SIZE (1920 * 1080  )
 extern void lv_demo_music(void);
 lv_ui guider_ui;
 
@@ -56,7 +56,9 @@ int main(void)
 
     /*Create a Demo*/
     /* lv_demo_music(); */
-    /* lv_demo_stress(); */
+    // lv_demo_stress(); 
+    // lv_demo_widgets();
+    // lv_demo_benchmark();
     /* ui_init(); */
     setup_ui(&guider_ui);
     events_init(&guider_ui);
