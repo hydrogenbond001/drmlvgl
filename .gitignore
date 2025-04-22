@@ -1,6 +1,6 @@
 /drm/
 /output/
-
+/drm/
 # Prerequisites
 *.d
 
