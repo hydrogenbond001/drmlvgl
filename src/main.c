@@ -5,6 +5,7 @@
 #include <pthread.h>
 #include <time.h>
 #include <sys/time.h>
+#include <stdio.h>
 
 #include "generated/gui_guider.h"
 #include "generated/events_init.h"
@@ -44,6 +45,7 @@ int main(void)
     lv_disp_drv_register(&disp_drv);
 
     /* Linux input device init */
+    setenv("LV_EVDEV_DEV_PATH", "/dev/input/event2", 1);
     evdev_init();
 
     /* Initialize and register a display input driver */
@@ -58,10 +60,10 @@ int main(void)
     /* lv_demo_music(); */
     // lv_demo_stress(); 
     // lv_demo_widgets();
-    // lv_demo_benchmark();
+    lv_demo_benchmark();
     /* ui_init(); */
-    setup_ui(&guider_ui);
-    events_init(&guider_ui);
+    // setup_ui(&guider_ui);
+    // events_init(&guider_ui);
 
     /*Handle LitlevGL tasks (tickless mode)*/
     while(1) {

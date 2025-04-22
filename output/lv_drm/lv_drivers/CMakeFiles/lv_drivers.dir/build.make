@@ -60,288 +60,288 @@ include lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/GC9A01.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/GC9A01.c.o: ../lv_drm/lv_drivers/display/GC9A01.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/GC9A01.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/GC9A01.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/GC9A01.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/GC9A01.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/GC9A01.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/GC9A01.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/GC9A01.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/GC9A01.c > CMakeFiles/lv_drivers.dir/display/GC9A01.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/GC9A01.c > CMakeFiles/lv_drivers.dir/display/GC9A01.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/GC9A01.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/GC9A01.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/GC9A01.c -o CMakeFiles/lv_drivers.dir/display/GC9A01.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/GC9A01.c -o CMakeFiles/lv_drivers.dir/display/GC9A01.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ILI9341.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ILI9341.c.o: ../lv_drm/lv_drivers/display/ILI9341.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ILI9341.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/ILI9341.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ILI9341.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/ILI9341.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ILI9341.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ILI9341.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/ILI9341.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ILI9341.c > CMakeFiles/lv_drivers.dir/display/ILI9341.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ILI9341.c > CMakeFiles/lv_drivers.dir/display/ILI9341.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ILI9341.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/ILI9341.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ILI9341.c -o CMakeFiles/lv_drivers.dir/display/ILI9341.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ILI9341.c -o CMakeFiles/lv_drivers.dir/display/ILI9341.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/R61581.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/R61581.c.o: ../lv_drm/lv_drivers/display/R61581.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/R61581.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/R61581.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/R61581.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/R61581.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/R61581.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/R61581.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/R61581.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/R61581.c > CMakeFiles/lv_drivers.dir/display/R61581.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/R61581.c > CMakeFiles/lv_drivers.dir/display/R61581.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/R61581.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/R61581.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/R61581.c -o CMakeFiles/lv_drivers.dir/display/R61581.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/R61581.c -o CMakeFiles/lv_drivers.dir/display/R61581.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.o: ../lv_drm/lv_drivers/display/SHARP_MIP.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SHARP_MIP.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SHARP_MIP.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SHARP_MIP.c > CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SHARP_MIP.c > CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SHARP_MIP.c -o CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SHARP_MIP.c -o CMakeFiles/lv_drivers.dir/display/SHARP_MIP.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SSD1963.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SSD1963.c.o: ../lv_drm/lv_drivers/display/SSD1963.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SSD1963.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/SSD1963.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SSD1963.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/SSD1963.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SSD1963.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SSD1963.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/SSD1963.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SSD1963.c > CMakeFiles/lv_drivers.dir/display/SSD1963.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SSD1963.c > CMakeFiles/lv_drivers.dir/display/SSD1963.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/SSD1963.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/SSD1963.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SSD1963.c -o CMakeFiles/lv_drivers.dir/display/SSD1963.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/SSD1963.c -o CMakeFiles/lv_drivers.dir/display/SSD1963.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ST7565.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ST7565.c.o: ../lv_drm/lv_drivers/display/ST7565.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ST7565.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/ST7565.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ST7565.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/ST7565.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ST7565.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ST7565.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/ST7565.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ST7565.c > CMakeFiles/lv_drivers.dir/display/ST7565.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ST7565.c > CMakeFiles/lv_drivers.dir/display/ST7565.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/ST7565.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/ST7565.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ST7565.c -o CMakeFiles/lv_drivers.dir/display/ST7565.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/ST7565.c -o CMakeFiles/lv_drivers.dir/display/ST7565.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/UC1610.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/UC1610.c.o: ../lv_drm/lv_drivers/display/UC1610.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/UC1610.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/UC1610.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/UC1610.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/UC1610.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/UC1610.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/UC1610.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/UC1610.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/UC1610.c > CMakeFiles/lv_drivers.dir/display/UC1610.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/UC1610.c > CMakeFiles/lv_drivers.dir/display/UC1610.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/UC1610.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/UC1610.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/UC1610.c -o CMakeFiles/lv_drivers.dir/display/UC1610.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/UC1610.c -o CMakeFiles/lv_drivers.dir/display/UC1610.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/drm.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/drm.c.o: ../lv_drm/lv_drivers/display/drm.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/drm.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/drm.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/drm.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/drm.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/drm.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/drm.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/drm.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/drm.c > CMakeFiles/lv_drivers.dir/display/drm.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/drm.c > CMakeFiles/lv_drivers.dir/display/drm.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/drm.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/drm.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/drm.c -o CMakeFiles/lv_drivers.dir/display/drm.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/drm.c -o CMakeFiles/lv_drivers.dir/display/drm.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/fbdev.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/fbdev.c.o: ../lv_drm/lv_drivers/display/fbdev.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/fbdev.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/fbdev.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/fbdev.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/display/fbdev.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/fbdev.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/fbdev.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/display/fbdev.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/fbdev.c > CMakeFiles/lv_drivers.dir/display/fbdev.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/fbdev.c > CMakeFiles/lv_drivers.dir/display/fbdev.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/display/fbdev.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/display/fbdev.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/fbdev.c -o CMakeFiles/lv_drivers.dir/display/fbdev.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/display/fbdev.c -o CMakeFiles/lv_drivers.dir/display/fbdev.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.o: ../lv_drm/lv_drivers/gtkdrv/gtkdrv.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/gtkdrv/gtkdrv.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/gtkdrv/gtkdrv.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/gtkdrv/gtkdrv.c > CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/gtkdrv/gtkdrv.c > CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/gtkdrv/gtkdrv.c -o CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/gtkdrv/gtkdrv.c -o CMakeFiles/lv_drivers.dir/gtkdrv/gtkdrv.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/AD_touch.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/AD_touch.c.o: ../lv_drm/lv_drivers/indev/AD_touch.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/AD_touch.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/AD_touch.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/AD_touch.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/AD_touch.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/AD_touch.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/AD_touch.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/indev/AD_touch.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/AD_touch.c > CMakeFiles/lv_drivers.dir/indev/AD_touch.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/AD_touch.c > CMakeFiles/lv_drivers.dir/indev/AD_touch.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/AD_touch.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/indev/AD_touch.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/AD_touch.c -o CMakeFiles/lv_drivers.dir/indev/AD_touch.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/AD_touch.c -o CMakeFiles/lv_drivers.dir/indev/AD_touch.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.o: ../lv_drm/lv_drivers/indev/FT5406EE8.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/FT5406EE8.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/FT5406EE8.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/FT5406EE8.c > CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/FT5406EE8.c > CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/FT5406EE8.c -o CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/FT5406EE8.c -o CMakeFiles/lv_drivers.dir/indev/FT5406EE8.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/XPT2046.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/XPT2046.c.o: ../lv_drm/lv_drivers/indev/XPT2046.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/XPT2046.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/XPT2046.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/XPT2046.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/XPT2046.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/XPT2046.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/XPT2046.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/indev/XPT2046.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/XPT2046.c > CMakeFiles/lv_drivers.dir/indev/XPT2046.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/XPT2046.c > CMakeFiles/lv_drivers.dir/indev/XPT2046.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/XPT2046.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/indev/XPT2046.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/XPT2046.c -o CMakeFiles/lv_drivers.dir/indev/XPT2046.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/XPT2046.c -o CMakeFiles/lv_drivers.dir/indev/XPT2046.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/evdev.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/evdev.c.o: ../lv_drm/lv_drivers/indev/evdev.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/evdev.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/evdev.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/evdev.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/evdev.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/evdev.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/evdev.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/indev/evdev.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/evdev.c > CMakeFiles/lv_drivers.dir/indev/evdev.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/evdev.c > CMakeFiles/lv_drivers.dir/indev/evdev.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/evdev.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/indev/evdev.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/evdev.c -o CMakeFiles/lv_drivers.dir/indev/evdev.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/evdev.c -o CMakeFiles/lv_drivers.dir/indev/evdev.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/libinput.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/libinput.c.o: ../lv_drm/lv_drivers/indev/libinput.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/libinput.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/libinput.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/libinput.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/libinput.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/libinput.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/libinput.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/indev/libinput.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/libinput.c > CMakeFiles/lv_drivers.dir/indev/libinput.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/libinput.c > CMakeFiles/lv_drivers.dir/indev/libinput.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/libinput.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/indev/libinput.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/libinput.c -o CMakeFiles/lv_drivers.dir/indev/libinput.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/libinput.c -o CMakeFiles/lv_drivers.dir/indev/libinput.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/xkb.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/xkb.c.o: ../lv_drm/lv_drivers/indev/xkb.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/xkb.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/xkb.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/xkb.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/indev/xkb.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/xkb.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/xkb.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/indev/xkb.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/xkb.c > CMakeFiles/lv_drivers.dir/indev/xkb.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/xkb.c > CMakeFiles/lv_drivers.dir/indev/xkb.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/indev/xkb.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/indev/xkb.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/xkb.c -o CMakeFiles/lv_drivers.dir/indev/xkb.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/indev/xkb.c -o CMakeFiles/lv_drivers.dir/indev/xkb.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl.c.o: ../lv_drm/lv_drivers/sdl/sdl.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/sdl/sdl.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/sdl/sdl.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/sdl/sdl.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl.c > CMakeFiles/lv_drivers.dir/sdl/sdl.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl.c > CMakeFiles/lv_drivers.dir/sdl/sdl.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/sdl/sdl.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl.c -o CMakeFiles/lv_drivers.dir/sdl/sdl.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl.c -o CMakeFiles/lv_drivers.dir/sdl/sdl.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.o: ../lv_drm/lv_drivers/sdl/sdl_common.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_common.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_common.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_common.c > CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_common.c > CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_common.c -o CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_common.c -o CMakeFiles/lv_drivers.dir/sdl/sdl_common.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.o: ../lv_drm/lv_drivers/sdl/sdl_gpu.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_gpu.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_gpu.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_gpu.c > CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_gpu.c > CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_gpu.c -o CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/sdl/sdl_gpu.c -o CMakeFiles/lv_drivers.dir/sdl/sdl_gpu.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/wayland/wayland.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/wayland/wayland.c.o: ../lv_drm/lv_drivers/wayland/wayland.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/wayland/wayland.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/wayland/wayland.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/wayland/wayland.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/wayland/wayland.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/wayland/wayland.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/wayland/wayland.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/wayland/wayland.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/wayland/wayland.c > CMakeFiles/lv_drivers.dir/wayland/wayland.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/wayland/wayland.c > CMakeFiles/lv_drivers.dir/wayland/wayland.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/wayland/wayland.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/wayland/wayland.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/wayland/wayland.c -o CMakeFiles/lv_drivers.dir/wayland/wayland.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/wayland/wayland.c -o CMakeFiles/lv_drivers.dir/wayland/wayland.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.o: ../lv_drm/lv_drivers/win32drv/win32drv.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win32drv/win32drv.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win32drv/win32drv.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win32drv/win32drv.c > CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win32drv/win32drv.c > CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win32drv/win32drv.c -o CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win32drv/win32drv.c -o CMakeFiles/lv_drivers.dir/win32drv/win32drv.c.s
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win_drv.c.o: lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/flags.make
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win_drv.c.o: ../lv_drm/lv_drivers/win_drv.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win_drv.c.o"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/win_drv.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win_drv.c
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lv_drivers.dir/win_drv.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win_drv.c
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win_drv.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lv_drivers.dir/win_drv.c.i"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win_drv.c > CMakeFiles/lv_drivers.dir/win_drv.c.i
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win_drv.c > CMakeFiles/lv_drivers.dir/win_drv.c.i
 
 lv_drm/lv_drivers/CMakeFiles/lv_drivers.dir/win_drv.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lv_drivers.dir/win_drv.c.s"
-	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win_drv.c -o CMakeFiles/lv_drivers.dir/win_drv.c.s
+	cd /home/ph/sololinker/project/app/rv1106_drm_lvgl/output/lv_drm/lv_drivers && /home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/lv_drm/lv_drivers/win_drv.c -o CMakeFiles/lv_drivers.dir/win_drv.c.s
 
 # Object files for target lv_drivers
 lv_drivers_OBJECTS = \

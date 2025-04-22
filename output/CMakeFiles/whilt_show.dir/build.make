@@ -60,15 +60,15 @@ include CMakeFiles/whilt_show.dir/flags.make
 CMakeFiles/whilt_show.dir/src/display_white.c.o: CMakeFiles/whilt_show.dir/flags.make
 CMakeFiles/whilt_show.dir/src/display_white.c.o: ../src/display_white.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/whilt_show.dir/src/display_white.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/whilt_show.dir/src/display_white.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/display_white.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/whilt_show.dir/src/display_white.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/display_white.c
 
 CMakeFiles/whilt_show.dir/src/display_white.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/whilt_show.dir/src/display_white.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/display_white.c > CMakeFiles/whilt_show.dir/src/display_white.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/display_white.c > CMakeFiles/whilt_show.dir/src/display_white.c.i
 
 CMakeFiles/whilt_show.dir/src/display_white.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/whilt_show.dir/src/display_white.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/display_white.c -o CMakeFiles/whilt_show.dir/src/display_white.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/display_white.c -o CMakeFiles/whilt_show.dir/src/display_white.c.s
 
 # Object files for target whilt_show
 whilt_show_OBJECTS = \

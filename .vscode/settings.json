@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.txt": "pip-requirements",
-        "ostream": "c"
+        "*.cmake": "pip-requirements",
+        "ostream": "c",
+        "evdev.h": "c"
     }
 }

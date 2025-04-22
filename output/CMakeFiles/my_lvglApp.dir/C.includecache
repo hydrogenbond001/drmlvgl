@@ -1123,6 +1123,8 @@ time.h
 -
 sys/time.h
 -
+stdio.h
+-
 generated/gui_guider.h
 /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/generated/gui_guider.h
 generated/events_init.h

@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 3.10)
 project(lvgl)
 
-# set(TOOLCHAIN_DIR "/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf") 
-# set(CMAKE_C_COMPILER ${TOOLCHAIN_DIR}/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc)
-# set(CMAKE_CXX_COMPILER ${TOOLCHAIN_DIR}/bin/arm-rockchip830-linux-uclibcgnueabihf-g++)
-set(CMAKE_C_COMPILER /usr/bin/aarch64-linux-gnu-gcc)#for tspi aarch64要换成rv1106改下这里为上面的
-set(CMAKE_CXX_COMPILER /usr/bin/aarch64-linux-gnu-g++)
+ set(TOOLCHAIN_DIR "/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf") 
+ set(CMAKE_C_COMPILER ${TOOLCHAIN_DIR}/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc)
+ set(CMAKE_CXX_COMPILER ${TOOLCHAIN_DIR}/bin/arm-rockchip830-linux-uclibcgnueabihf-g++)
+#set(CMAKE_C_COMPILER /usr/bin/aarch64-linux-gnu-gcc)#for tspi aarch64要换成rv1106改下这里为上面的
+#set(CMAKE_CXX_COMPILER /usr/bin/aarch64-linux-gnu-g++)
 
 set(CMAKE_C_STANDARD 99)
 set(CMAKE_CXX_STANDARD 17)

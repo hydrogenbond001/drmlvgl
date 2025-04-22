@@ -60,379 +60,379 @@ include CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/custom/custom.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/custom/custom.c.o: ../custom/custom.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/my_lvglApp.dir/custom/custom.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/custom/custom.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/custom/custom.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/custom/custom.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/custom/custom.c
 
 CMakeFiles/my_lvglApp.dir/custom/custom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/custom/custom.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/custom/custom.c > CMakeFiles/my_lvglApp.dir/custom/custom.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/custom/custom.c > CMakeFiles/my_lvglApp.dir/custom/custom.c.i
 
 CMakeFiles/my_lvglApp.dir/custom/custom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/custom/custom.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/custom/custom.c -o CMakeFiles/my_lvglApp.dir/custom/custom.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/custom/custom.c -o CMakeFiles/my_lvglApp.dir/custom/custom.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/events_init.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/events_init.c.o: ../generated/events_init.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/my_lvglApp.dir/generated/events_init.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/events_init.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/events_init.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/events_init.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/events_init.c
 
 CMakeFiles/my_lvglApp.dir/generated/events_init.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/events_init.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/events_init.c > CMakeFiles/my_lvglApp.dir/generated/events_init.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/events_init.c > CMakeFiles/my_lvglApp.dir/generated/events_init.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/events_init.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/events_init.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/events_init.c -o CMakeFiles/my_lvglApp.dir/generated/events_init.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/events_init.c -o CMakeFiles/my_lvglApp.dir/generated/events_init.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.o: ../generated/gui_guider.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/gui_guider.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/gui_guider.c
 
 CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/gui_guider.c > CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/gui_guider.c > CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/gui_guider.c -o CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/gui_guider.c -o CMakeFiles/my_lvglApp.dir/generated/gui_guider.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.o: ../generated/guider_fonts/lv_font_Acme_Regular_29.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_Acme_Regular_29.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_Acme_Regular_29.c
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_Acme_Regular_29.c > CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_Acme_Regular_29.c > CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_Acme_Regular_29.c -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_Acme_Regular_29.c -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_Acme_Regular_29.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.o: ../generated/guider_fonts/lv_font_montserratMedium_12.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_12.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_12.c
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_12.c > CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_12.c > CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_12.c -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_12.c -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_12.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.o: ../generated/guider_fonts/lv_font_montserratMedium_16.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_16.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_16.c
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_16.c > CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_16.c > CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_16.c -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/guider_fonts/lv_font_montserratMedium_16.c -o CMakeFiles/my_lvglApp.dir/generated/guider_fonts/lv_font_montserratMedium_16.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.o: ../generated/images/_1234_alpha_472x472.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_472x472.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_472x472.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_472x472.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_472x472.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_472x472.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_472x472.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_472x472.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.o: ../generated/images/_1234_alpha_476x480.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_476x480.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_476x480.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_476x480.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_476x480.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_476x480.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_476x480.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_476x480.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.o: ../generated/images/_1234_alpha_478x478.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_478x478.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_478x478.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_478x478.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_478x478.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_478x478.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_478x478.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_478x478.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.o: ../generated/images/_1234_alpha_480x476.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x476.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x476.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x476.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x476.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x476.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x476.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x476.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.o: ../generated/images/_1234_alpha_480x480.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x480.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x480.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x480.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x480.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x480.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_480x480.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_480x480.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.o: ../generated/images/_1234_alpha_482x482.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_482x482.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_482x482.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_482x482.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_482x482.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_482x482.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_482x482.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_482x482.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.o: ../generated/images/_1234_alpha_484x484.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_484x484.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_484x484.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_484x484.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_484x484.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_484x484.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_484x484.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_484x484.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.o: ../generated/images/_1234_alpha_486x486.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_486x486.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_486x486.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_486x486.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_486x486.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_486x486.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_486x486.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_486x486.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.o: ../generated/images/_1234_alpha_490x490.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_490x490.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_490x490.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_490x490.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_490x490.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_490x490.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_490x490.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_490x490.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.o: ../generated/images/_1234_alpha_500x500.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_500x500.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_500x500.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_500x500.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_500x500.c > CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_500x500.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_1234_alpha_500x500.c -o CMakeFiles/my_lvglApp.dir/generated/images/_1234_alpha_500x500.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.o: ../generated/images/_127416063_p0_alpha_314x470.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_314x470.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_314x470.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_314x470.c > CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_314x470.c > CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_314x470.c -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_314x470.c -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_314x470.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.o: ../generated/images/_127416063_p0_alpha_411x642.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_411x642.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_411x642.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_411x642.c > CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_411x642.c > CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_411x642.c -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_411x642.c -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_411x642.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.o: ../generated/images/_127416063_p0_alpha_473x703.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_473x703.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_473x703.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_473x703.c > CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_473x703.c > CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_473x703.c -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_127416063_p0_alpha_473x703.c -o CMakeFiles/my_lvglApp.dir/generated/images/_127416063_p0_alpha_473x703.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.o: ../generated/images/_53170539_p0_master1200_alpha_336x472.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_53170539_p0_master1200_alpha_336x472.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_53170539_p0_master1200_alpha_336x472.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_53170539_p0_master1200_alpha_336x472.c > CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_53170539_p0_master1200_alpha_336x472.c > CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_53170539_p0_master1200_alpha_336x472.c -o CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_53170539_p0_master1200_alpha_336x472.c -o CMakeFiles/my_lvglApp.dir/generated/images/_53170539_p0_master1200_alpha_336x472.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.o: ../generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c > CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c > CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c -o CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c -o CMakeFiles/my_lvglApp.dir/generated/images/_8f9286af11c1d9547f027e853e2b895_alpha_336x472.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.o: ../generated/images/_94193250_p0_master1200_alpha_336x480.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_94193250_p0_master1200_alpha_336x480.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_94193250_p0_master1200_alpha_336x480.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_94193250_p0_master1200_alpha_336x480.c > CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_94193250_p0_master1200_alpha_336x480.c > CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_94193250_p0_master1200_alpha_336x480.c -o CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/_94193250_p0_master1200_alpha_336x480.c -o CMakeFiles/my_lvglApp.dir/generated/images/_94193250_p0_master1200_alpha_336x480.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.o: ../generated/images/lottie_emoji_shock.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_shock.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_shock.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_shock.c > CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_shock.c > CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_shock.c -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_shock.c -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_shock.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.o: ../generated/images/lottie_emoji_wink.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_wink.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_wink.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_wink.c > CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_wink.c > CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_wink.c -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_emoji_wink.c -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_emoji_wink.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.o: ../generated/images/lottie_happy.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_happy.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_happy.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_happy.c > CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_happy.c > CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_happy.c -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_happy.c -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_happy.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.o: ../generated/images/lottie_lottieflow_loading.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_lottieflow_loading.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_lottieflow_loading.c
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_lottieflow_loading.c > CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_lottieflow_loading.c > CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_lottieflow_loading.c -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/images/lottie_lottieflow_loading.c -o CMakeFiles/my_lvglApp.dir/generated/images/lottie_lottieflow_loading.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.o: ../generated/setup_scr_screen_1.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/setup_scr_screen_1.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/setup_scr_screen_1.c
 
 CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/setup_scr_screen_1.c > CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/setup_scr_screen_1.c > CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/setup_scr_screen_1.c -o CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/setup_scr_screen_1.c -o CMakeFiles/my_lvglApp.dir/generated/setup_scr_screen_1.c.s
 
 CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.o: ../generated/widgets_init.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/widgets_init.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/widgets_init.c
 
 CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/widgets_init.c > CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/widgets_init.c > CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.i
 
 CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/widgets_init.c -o CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/generated/widgets_init.c -o CMakeFiles/my_lvglApp.dir/generated/widgets_init.c.s
 
 CMakeFiles/my_lvglApp.dir/src/main.c.o: CMakeFiles/my_lvglApp.dir/flags.make
 CMakeFiles/my_lvglApp.dir/src/main.c.o: ../src/main.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ph/sololinker/project/app/rv1106_drm_lvgl/output/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/my_lvglApp.dir/src/main.c.o"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/src/main.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/main.c
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/my_lvglApp.dir/src/main.c.o   -c /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/main.c
 
 CMakeFiles/my_lvglApp.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/my_lvglApp.dir/src/main.c.i"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/main.c > CMakeFiles/my_lvglApp.dir/src/main.c.i
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/main.c > CMakeFiles/my_lvglApp.dir/src/main.c.i
 
 CMakeFiles/my_lvglApp.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/my_lvglApp.dir/src/main.c.s"
-	/usr/bin/aarch64-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/main.c -o CMakeFiles/my_lvglApp.dir/src/main.c.s
+	/home/ph/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ph/sololinker/project/app/rv1106_drm_lvgl/src/main.c -o CMakeFiles/my_lvglApp.dir/src/main.c.s
 
 # Object files for target my_lvglApp
 my_lvglApp_OBJECTS = \
